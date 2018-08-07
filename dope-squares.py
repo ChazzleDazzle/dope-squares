@@ -4,7 +4,7 @@ from random import randint
 import pyxel
 
 
-pyxel.init(160, 120, caption='Dope Fucking Squares')
+pyxel.init(160, 120, caption='Dope Squares')
 
 class App:
     def __init__(self):
